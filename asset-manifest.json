@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/apnaBakery/static/css/main.cf7d1363.css",
-    "main.js": "/apnaBakery/static/js/main.be50ecae.js",
+    "main.css": "/apnaBakery/static/css/main.24e186e8.css",
+    "main.js": "/apnaBakery/static/js/main.82e57ecc.js",
     "static/js/453.2a9fe2db.chunk.js": "/apnaBakery/static/js/453.2a9fe2db.chunk.js",
     "static/media/1.png": "/apnaBakery/static/media/1.172fe8bd1bd88ce1a299.png",
     "static/media/2.png": "/apnaBakery/static/media/2.e1459abd80c66c0d9e47.png",
@@ -65,12 +65,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/apnaBakery/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/apnaBakery/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/apnaBakery/index.html",
-    "main.cf7d1363.css.map": "/apnaBakery/static/css/main.cf7d1363.css.map",
-    "main.be50ecae.js.map": "/apnaBakery/static/js/main.be50ecae.js.map",
+    "main.24e186e8.css.map": "/apnaBakery/static/css/main.24e186e8.css.map",
+    "main.82e57ecc.js.map": "/apnaBakery/static/js/main.82e57ecc.js.map",
     "453.2a9fe2db.chunk.js.map": "/apnaBakery/static/js/453.2a9fe2db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf7d1363.css",
-    "static/js/main.be50ecae.js"
+    "static/css/main.24e186e8.css",
+    "static/js/main.82e57ecc.js"
   ]
 }
